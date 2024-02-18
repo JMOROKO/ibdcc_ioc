@@ -11,3 +11,7 @@ J
 src/metier/MetierImpl.java,3\5\35b6a1281d4616769c7e12c023a20bf9f3390923
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+src/pres/Presentation.java,2\5\25c023a8026afd1d231c9b4aaaa8232cf2a86028
+E
+src/ext/DaoImpl2.java,6\f\6fee96d6dfde0bcfddc6420a97f86b718635d597
