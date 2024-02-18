@@ -13,3 +13,5 @@
     <b>4- MetierImpl</b> <br>
     <img src="captures/4-Metier-impl.png" alt=""/>
 </p>
+<b>5.a- Instanciation statique</b>
+<img src="captures/5-instanciation-statique.png" alt="">
