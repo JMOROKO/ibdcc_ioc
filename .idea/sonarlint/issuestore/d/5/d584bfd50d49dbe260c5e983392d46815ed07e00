@@ -1,3 +1,4 @@
 
 ~
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "temp".(¯™è‡ùÿÿÿÿ8Í¯áÛ1
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "temp".(¯™è‡ùÿÿÿÿ8Í¯áÛ1
+L	java:S106"+Replace this use of System.out by a logger.(õı¤§ıÿÿÿÿ8ÆÀÑåÛ1

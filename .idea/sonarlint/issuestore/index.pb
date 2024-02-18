@@ -15,3 +15,8 @@ J
 src/pres/Presentation.java,2\5\25c023a8026afd1d231c9b4aaaa8232cf2a86028
 E
 src/ext/DaoImpl2.java,6\f\6fee96d6dfde0bcfddc6420a97f86b718635d597
+:
+
+config.txt,3\2\326d07a343a96956109e65faecde6fea3a7d2ad9
+K
+src/pres/Presentation2.java,e\8\e897ada46ac63cf6bacf012e537a88fba2755938
