@@ -9,3 +9,5 @@ G
 src/metier/IMetier.java,e\9\e96afc1dc794f0bd917fa08e8a77be63c29f5cd2
 J
 src/metier/MetierImpl.java,3\5\35b6a1281d4616769c7e12c023a20bf9f3390923
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
